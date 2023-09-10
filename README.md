@@ -22,7 +22,7 @@ journey-to-cloud-envisioning-your-solution.2
 Getting Started with Threat Intelligence and Hunting
 
 Project documentation on writer on project workspace.
-Unveiling The Virtual Classroom-Report final
+Unveiling The Virtual Classroom-Report final.pdf
 
 Demo Video is a must to be submitted on demo link tab.
 IBM Project_Virtual classroom new.mp4
