@@ -3,7 +3,8 @@ Unveiling the Virtual Classroom: An In-depth Analysis of the Online Education Sy
 
 Data Analytics Project files
 
-Project Files - Exploration pdf, Dashboard pdf, report pdf, story pdf, 
+Project Files - Exploration pdf, Dashboard pdf, report pdf, story pdf
+
 Exploration.pdf
 Dashboard.pdf
 Story.pdf
@@ -13,7 +14,7 @@ dataset &
 ONLINE EDUCATION SYSTEM REVIEW.csv
 
 all the files for web integration (On Github)
-FlexStart.zip file,Index,html,app.py
+FlexStart.zip file,Index.html,app.py
 
 IBM Course badges pdf files ( form to be filled and Badge should be submitted on github)
 Getting Started with Data Science (done course last year)
@@ -30,5 +31,3 @@ https://drive.google.com/file/d/1ISYMZ12Vd8u9jqAIrDYSlYXSQKmbkvcR/view?usp=drive
 
 Output screenshots pdf file
 output_screenshots.pdf
-
-IBM Project_Virtual classroom new
